@@ -21,7 +21,7 @@ const double BUTTON_HEIGHT = 25;
 const double POPUP_WIDTH = 600;
 const double POPUP_HEIGHT = 400;
 
-const string NEWS_API_KEY = "d6124523cd1a4557a27a4c4a946d7b37";
+const string NEWS_API_KEY = "===PASTE YOUR NEWSAPI API KEY HERE===";
 const string NEWS_API_URL = "https://newsapi.org/v2/top-headlines?language=en&pageSize=20&apiKey=" + NEWS_API_KEY;
 
 struct source_data
